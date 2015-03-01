@@ -3,6 +3,7 @@
 ### My first game made for fun (Spring 2014)
 
 *Walter Schlosser*
+
 *Built with Java, Eclipse, and [libGDX](http://libgdx.badlogicgames.com) (pre-gradle)*
 
 ==================
